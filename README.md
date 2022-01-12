@@ -9,3 +9,5 @@ git clone https://gitee.com/engalar/mendix-custom-widget-template.git --depth=1 
 ```
 git clone --recurse-submodules https://gitee.com/engalar/mendix-custom-widget-template.git.&& npm run m && npm run x && npm run testProject && npm run start
 ```
+
+![](./assets/demo.png)
